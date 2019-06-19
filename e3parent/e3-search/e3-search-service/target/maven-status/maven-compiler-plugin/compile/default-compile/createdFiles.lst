@@ -1,0 +1,9 @@
+com\zhl\search\service\impl\SearchItemServiceImpl.class
+com\zhl\search\dao\SearchDao.class
+com\zhl\search\message\ItemAddMessageListener.class
+com\zhl\search\service\impl\SearchServiceImpl.class
+com\zhl\test\TestSolrCloud.class
+com\zhl\test\MeaasgeConsumer.class
+com\zhl\test\TestSolrj.class
+com\zhl\search\mapper\ItemMapper.class
+com\zhl\search\message\MyMessageListener.class

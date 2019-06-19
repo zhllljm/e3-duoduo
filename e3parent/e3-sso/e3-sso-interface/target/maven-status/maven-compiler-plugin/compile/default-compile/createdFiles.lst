@@ -1,0 +1,3 @@
+com\zhl\sso\service\RegisterService.class
+com\zhl\sso\service\TokenService.class
+com\zhl\sso\service\LoginService.class

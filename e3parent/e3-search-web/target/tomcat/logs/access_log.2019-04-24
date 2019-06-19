@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:21:30:02 +0800] "GET /search.html?keyword=%E6%89%8B%E6%9C%BA HTTP/1.1" 200 84675 http-bio-8085-exec-1 22147
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:21:30:03 +0800] "GET /images/logo66.png HTTP/1.1" 404 949 http-bio-8085-exec-2 47
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:21:30:03 +0800] "GET /images/cate_bg.jpg HTTP/1.1" 404 949 http-bio-8085-exec-6 2
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:21:30:03 +0800] "GET /images/header.png HTTP/1.1" 404 949 http-bio-8085-exec-3 71
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:21:30:03 +0800] "GET /images/kxicon.jpg HTTP/1.1" 404 949 http-bio-8085-exec-5 77
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:21:30:03 +0800] "GET /images/html/logo_word.jpg HTTP/1.1" 404 949 http-bio-8085-exec-4 136
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:21:30:03 +0800] "GET /images/productList.png HTTP/1.1" 404 949 http-bio-8085-exec-7 106
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:21:30:03 +0800] "GET /images/bottom_sm.png HTTP/1.1" 404 949 http-bio-8085-exec-9 51
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:21:30:03 +0800] "GET /images/foot/logo.jpg HTTP/1.1" 404 949 http-bio-8085-exec-10 29
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:21:30:03 +0800] "GET /images/foot_bottom.png HTTP/1.1" 404 949 http-bio-8085-exec-7 57
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:21:30:14 +0800] "GET /images/header.png HTTP/1.1" 404 949 http-bio-8085-exec-7 1
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:21:30:14 +0800] "GET /images/indexImg20130307.png?v=1.4 HTTP/1.1" 404 949 http-bio-8085-exec-10 22
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:21:30:15 +0800] "GET /images/weixin.png HTTP/1.1" 404 949 http-bio-8085-exec-10 3
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:21:30:18 +0800] "GET /images/foot/line.jpg HTTP/1.1" 404 949 http-bio-8085-exec-10 2

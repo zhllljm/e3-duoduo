@@ -1,0 +1,1705 @@
+
+
+[INFO ] 2019-04-25 15:40:38,218 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:307)
+Root WebApplicationContext: initialization started
+
+
+[INFO ] 2019-04-25 15:40:38,282 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing Root WebApplicationContext: startup date [Thu Apr 25 15:40:38 CST 2019]; root of context hierarchy
+
+
+[INFO ] 2019-04-25 15:40:38,312 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2019-04-25 15:40:38,944 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2019-04-25 15:40:39,091 method:
+using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+
+
+[INFO ] 2019-04-25 15:40:39,105 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2019-04-25 15:40:39,286 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/spring/applicationContext-dao.xml]
+
+
+[INFO ] 2019-04-25 15:40:39,415 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar!/conf/logging.properties]
+
+
+[INFO ] 2019-04-25 15:40:39,416 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/db.properties]
+
+
+[INFO ] 2019-04-25 15:40:39,417 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/resources.properties]
+
+
+[INFO ] 2019-04-25 15:40:39,423 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:153)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+[INFO ] 2019-04-25 15:40:40,162 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:347)
+Root WebApplicationContext: initialization completed in 1943 ms
+
+
+[INFO ] 2019-04-26 10:08:32,847 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:307)
+Root WebApplicationContext: initialization started
+
+
+[INFO ] 2019-04-26 10:08:33,030 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing Root WebApplicationContext: startup date [Fri Apr 26 10:08:33 CST 2019]; root of context hierarchy
+
+
+[INFO ] 2019-04-26 10:08:33,117 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2019-04-26 10:08:59,258 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2019-04-26 10:09:01,439 method:
+using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+
+
+[INFO ] 2019-04-26 10:09:01,755 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2019-04-26 10:09:02,116 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/spring/applicationContext-dao.xml]
+
+
+[INFO ] 2019-04-26 10:09:05,297 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar!/conf/logging.properties]
+
+
+[INFO ] 2019-04-26 10:09:05,298 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/db.properties]
+
+
+[INFO ] 2019-04-26 10:09:05,298 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/resources.properties]
+
+
+[INFO ] 2019-04-26 10:09:05,374 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:153)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+[INFO ] 2019-04-26 10:09:53,534 method:com.alibaba.dubbo.config.spring.ServiceBean.onApplicationEvent(ServiceBean.java:119)
+ [DUBBO] The service ready on spring started. service: com.zhl.cart.service.CartService, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:09:53,752 method:com.alibaba.dubbo.config.ServiceConfig.exportLocal(ServiceConfig.java:531)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to local registry, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:09:53,752 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:490)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to url dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem&pid=29504&side=provider&timeout=300000&timestamp=1556244593682, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:09:53,752 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:500)
+ [DUBBO] Register dubbo service com.zhl.cart.service.CartService url dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem&pid=29504&side=provider&timeout=300000&timestamp=1556244593682 to registry registry://192.168.25.128:2181/com.alibaba.dubbo.registry.RegistryService?application=e3-cart&dubbo=2.6.0&pid=29504&registry=zookeeper&timestamp=1556244593551, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:09:54,165 method:com.alibaba.dubbo.remoting.transport.AbstractServer.<init>(AbstractServer.java:65)
+ [DUBBO] Start NettyServer bind /0.0.0.0:20884, export /169.254.246.244:20884, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:09:54,185 method:com.alibaba.dubbo.common.concurrent.ExecutionList.add(ExecutionList.java:88)
+ [DUBBO] Executor for listenablefuture is null, will use default executor!, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:09:54,195 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:64)
+Starting ZkClient event thread.
+
+
+[INFO ] 2019-04-26 10:09:54,202 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:zookeeper.version=3.4.7-1713338, built on 11/09/2015 04:32 GMT
+
+
+[INFO ] 2019-04-26 10:09:54,202 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:host.name=hp-PC
+
+
+[INFO ] 2019-04-26 10:09:54,202 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.version=1.8.0_65
+
+
+[INFO ] 2019-04-26 10:09:54,202 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.vendor=Oracle Corporation
+
+
+[INFO ] 2019-04-26 10:09:54,202 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.home=C:\Program Files\Java\jdk1.8.0_65\jre
+
+
+[INFO ] 2019-04-26 10:09:54,202 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.class.path=D:\maven\apache-maven-3.6.0\boot\plexus-classworlds-2.5.2.jar;D:\ideaIU-2018.2.5.win\lib\idea_rt.jar
+
+
+[INFO ] 2019-04-26 10:09:54,202 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_65\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;E:\mysql-5.6.38-winx64\bin;C:\Program Files\Java\jdk1.8.0_65\bin;c:\app\Administrator\product\11.2.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Rational\common;D:\maven\apache-maven-3.6.0\bin;;.
+
+
+[INFO ] 2019-04-26 10:09:54,202 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+
+
+[INFO ] 2019-04-26 10:09:54,203 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.compiler=<NA>
+
+
+[INFO ] 2019-04-26 10:09:54,203 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.name=Windows 7
+
+
+[INFO ] 2019-04-26 10:09:54,203 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.arch=amd64
+
+
+[INFO ] 2019-04-26 10:09:54,203 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.version=6.1
+
+
+[INFO ] 2019-04-26 10:09:54,203 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.name=Administrator
+
+
+[INFO ] 2019-04-26 10:09:54,203 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.home=C:\Users\Administrator
+
+
+[INFO ] 2019-04-26 10:09:54,203 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.dir=D:\distributed\e3parent\e3-cart
+
+
+[INFO ] 2019-04-26 10:09:54,204 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=192.168.25.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@4fe1c81b
+
+
+[INFO ] 2019-04-26 10:09:54,221 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.128/192.168.25.128:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2019-04-26 10:09:54,482 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.128/192.168.25.128:2181, initiating session
+
+
+[INFO ] 2019-04-26 10:09:54,754 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.128/192.168.25.128:2181, sessionid = 0x16a3569e7db006c, negotiated timeout = 30000
+
+
+[INFO ] 2019-04-26 10:09:54,756 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2019-04-26 10:09:54,847 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:272)
+ [DUBBO] Register: dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem&pid=29504&side=provider&timeout=300000&timestamp=1556244593682, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:09:55,527 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:295)
+ [DUBBO] Subscribe: provider://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem&pid=29504&side=provider&timeout=300000&timestamp=1556244593682, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:09:56,111 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:383)
+ [DUBBO] Notify urls for subscribe url provider://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem&pid=29504&side=provider&timeout=300000&timestamp=1556244593682, urls: [empty://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem&pid=29504&side=provider&timeout=300000&timestamp=1556244593682], dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:09:56,140 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:347)
+Root WebApplicationContext: initialization completed in 83218 ms
+
+
+[WARN ] 2019-04-26 10:12:52,646 method:com.alibaba.dubbo.remoting.transport.AbstractServer.disconnected(AbstractServer.java:200)
+ [DUBBO] All clients has discontected from /169.254.246.244:20884. You can graceful shutdown now., dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:12:52,648 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /169.254.246.244:53450,url:dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem&pid=29504&side=provider&timeout=300000&timestamp=1556244593682, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[WARN ] 2019-04-26 10:29:39,655 method:com.alibaba.dubbo.remoting.transport.AbstractServer.disconnected(AbstractServer.java:200)
+ [DUBBO] All clients has discontected from /169.254.246.244:20884. You can graceful shutdown now., dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:29:40,970 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /169.254.246.244:53519,url:dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem&pid=29504&side=provider&timeout=300000&timestamp=1556244593682, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:53:54,263 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:307)
+Root WebApplicationContext: initialization started
+
+
+[INFO ] 2019-04-26 10:53:54,586 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing Root WebApplicationContext: startup date [Fri Apr 26 10:53:54 CST 2019]; root of context hierarchy
+
+
+[INFO ] 2019-04-26 10:53:54,785 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2019-04-26 10:53:56,198 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2019-04-26 10:53:56,505 method:
+using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+
+
+[INFO ] 2019-04-26 10:53:56,581 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2019-04-26 10:53:56,660 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/spring/applicationContext-dao.xml]
+
+
+[INFO ] 2019-04-26 10:53:56,961 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar!/conf/logging.properties]
+
+
+[INFO ] 2019-04-26 10:53:56,962 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\conf\resource.properties]
+
+
+[INFO ] 2019-04-26 10:53:56,962 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/db.properties]
+
+
+[INFO ] 2019-04-26 10:53:56,963 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/resources.properties]
+
+
+[INFO ] 2019-04-26 10:53:56,985 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:153)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+[INFO ] 2019-04-26 10:54:34,863 method:com.alibaba.dubbo.config.spring.ServiceBean.onApplicationEvent(ServiceBean.java:119)
+ [DUBBO] The service ready on spring started. service: com.zhl.cart.service.CartService, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:54:36,174 method:com.alibaba.dubbo.config.ServiceConfig.exportLocal(ServiceConfig.java:531)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to local registry, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:54:36,174 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:490)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to url dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=796&side=provider&timeout=300000&timestamp=1556247275943, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:54:36,175 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:500)
+ [DUBBO] Register dubbo service com.zhl.cart.service.CartService url dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=796&side=provider&timeout=300000&timestamp=1556247275943 to registry registry://192.168.25.128:2181/com.alibaba.dubbo.registry.RegistryService?application=e3-cart&dubbo=2.6.0&pid=796&registry=zookeeper&timestamp=1556247274910, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:54:38,595 method:com.alibaba.dubbo.remoting.transport.AbstractServer.<init>(AbstractServer.java:65)
+ [DUBBO] Start NettyServer bind /0.0.0.0:20884, export /169.254.246.244:20884, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:54:38,943 method:com.alibaba.dubbo.registry.support.AbstractRegistry.loadProperties(AbstractRegistry.java:202)
+ [DUBBO] Load registry store file C:\Users\Administrator\.dubbo\dubbo-registry-e3-cart-192.168.25.128:2181.cache, data: {com.zhl.cart.service.CartService=empty://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem&pid=29504&side=provider&timeout=300000&timestamp=1556244593682}, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:54:39,001 method:com.alibaba.dubbo.common.concurrent.ExecutionList.add(ExecutionList.java:88)
+ [DUBBO] Executor for listenablefuture is null, will use default executor!, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:54:39,078 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:64)
+Starting ZkClient event thread.
+
+
+[INFO ] 2019-04-26 10:54:39,141 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:zookeeper.version=3.4.7-1713338, built on 11/09/2015 04:32 GMT
+
+
+[INFO ] 2019-04-26 10:54:39,141 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:host.name=hp-PC
+
+
+[INFO ] 2019-04-26 10:54:39,142 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.version=1.8.0_65
+
+
+[INFO ] 2019-04-26 10:54:39,142 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.vendor=Oracle Corporation
+
+
+[INFO ] 2019-04-26 10:54:39,143 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.home=C:\Program Files\Java\jdk1.8.0_65\jre
+
+
+[INFO ] 2019-04-26 10:54:39,143 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.class.path=D:\maven\apache-maven-3.6.0\boot\plexus-classworlds-2.5.2.jar;D:\ideaIU-2018.2.5.win\lib\idea_rt.jar
+
+
+[INFO ] 2019-04-26 10:54:39,143 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_65\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;E:\mysql-5.6.38-winx64\bin;C:\Program Files\Java\jdk1.8.0_65\bin;c:\app\Administrator\product\11.2.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Rational\common;D:\maven\apache-maven-3.6.0\bin;;.
+
+
+[INFO ] 2019-04-26 10:54:53,271 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+
+
+[INFO ] 2019-04-26 10:54:53,274 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.compiler=<NA>
+
+
+[INFO ] 2019-04-26 10:54:53,275 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.name=Windows 7
+
+
+[INFO ] 2019-04-26 10:54:53,275 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.arch=amd64
+
+
+[INFO ] 2019-04-26 10:54:53,275 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.version=6.1
+
+
+[INFO ] 2019-04-26 10:54:53,276 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.name=Administrator
+
+
+[INFO ] 2019-04-26 10:54:53,276 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.home=C:\Users\Administrator
+
+
+[INFO ] 2019-04-26 10:54:53,277 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.dir=D:\distributed\e3parent\e3-cart
+
+
+[INFO ] 2019-04-26 10:54:53,284 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=192.168.25.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@693d7a27
+
+
+[INFO ] 2019-04-26 10:54:54,156 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.128/192.168.25.128:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2019-04-26 10:54:54,449 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.128/192.168.25.128:2181, initiating session
+
+
+[INFO ] 2019-04-26 10:54:55,145 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.128/192.168.25.128:2181, sessionid = 0x16a3569e7db007b, negotiated timeout = 30000
+
+
+[INFO ] 2019-04-26 10:54:55,151 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2019-04-26 10:54:55,159 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:272)
+ [DUBBO] Register: dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=796&side=provider&timeout=300000&timestamp=1556247275943, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:54:55,572 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:295)
+ [DUBBO] Subscribe: provider://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=796&side=provider&timeout=300000&timestamp=1556247275943, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:54:57,344 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:383)
+ [DUBBO] Notify urls for subscribe url provider://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=796&side=provider&timeout=300000&timestamp=1556247275943, urls: [empty://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=796&side=provider&timeout=300000&timestamp=1556247275943], dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 10:54:57,862 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:347)
+Root WebApplicationContext: initialization completed in 63559 ms
+
+
+[WARN ] 2019-04-26 11:19:15,475 method:com.alibaba.dubbo.remoting.transport.AbstractServer.disconnected(AbstractServer.java:200)
+ [DUBBO] All clients has discontected from /169.254.246.244:20884. You can graceful shutdown now., dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 11:19:15,915 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /169.254.246.244:54707,url:dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=796&side=provider&timeout=300000&timestamp=1556247275943, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 11:27:41,857 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /169.254.246.244:55526,url:dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=796&side=provider&timeout=300000&timestamp=1556247275943, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 11:28:01,096 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /169.254.246.244:55590,url:dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=796&side=provider&timeout=300000&timestamp=1556247275943, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[WARN ] 2019-04-26 11:28:05,042 method:com.alibaba.dubbo.remoting.transport.AbstractServer.disconnected(AbstractServer.java:200)
+ [DUBBO] All clients has discontected from /169.254.246.244:20884. You can graceful shutdown now., dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 11:28:05,083 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /169.254.246.244:55374,url:dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=796&side=provider&timeout=300000&timestamp=1556247275943, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 16:37:47,387 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:307)
+Root WebApplicationContext: initialization started
+
+
+[INFO ] 2019-04-26 16:37:48,259 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing Root WebApplicationContext: startup date [Fri Apr 26 16:37:48 CST 2019]; root of context hierarchy
+
+
+[INFO ] 2019-04-26 16:37:48,291 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2019-04-26 16:37:51,365 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2019-04-26 16:37:51,489 method:
+using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+
+
+[INFO ] 2019-04-26 16:37:51,508 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2019-04-26 16:37:51,562 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/spring/applicationContext-dao.xml]
+
+
+[INFO ] 2019-04-26 16:37:51,680 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar!/conf/logging.properties]
+
+
+[INFO ] 2019-04-26 16:37:51,681 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\conf\resource.properties]
+
+
+[INFO ] 2019-04-26 16:37:51,681 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/db.properties]
+
+
+[INFO ] 2019-04-26 16:37:51,681 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/resources.properties]
+
+
+[INFO ] 2019-04-26 16:37:51,689 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:153)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+[INFO ] 2019-04-26 16:37:55,553 method:com.alibaba.dubbo.config.spring.ServiceBean.onApplicationEvent(ServiceBean.java:119)
+ [DUBBO] The service ready on spring started. service: com.zhl.cart.service.CartService, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 16:37:55,638 method:com.alibaba.dubbo.config.ServiceConfig.exportLocal(ServiceConfig.java:531)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to local registry, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 16:37:55,638 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:490)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to url dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=25072&side=provider&timeout=300000&timestamp=1556267875565, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 16:37:55,639 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:500)
+ [DUBBO] Register dubbo service com.zhl.cart.service.CartService url dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=25072&side=provider&timeout=300000&timestamp=1556267875565 to registry registry://192.168.25.128:2181/com.alibaba.dubbo.registry.RegistryService?application=e3-cart&dubbo=2.6.0&pid=25072&registry=zookeeper&timestamp=1556267875558, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 16:37:55,790 method:com.alibaba.dubbo.remoting.transport.AbstractServer.<init>(AbstractServer.java:65)
+ [DUBBO] Start NettyServer bind /0.0.0.0:20884, export /169.254.246.244:20884, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 16:37:56,546 method:com.alibaba.dubbo.registry.support.AbstractRegistry.loadProperties(AbstractRegistry.java:202)
+ [DUBBO] Load registry store file C:\Users\Administrator\.dubbo\dubbo-registry-e3-cart-192.168.25.128:2181.cache, data: {com.zhl.cart.service.CartService=empty://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=796&side=provider&timeout=300000&timestamp=1556247275943}, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 16:37:56,590 method:com.alibaba.dubbo.common.concurrent.ExecutionList.add(ExecutionList.java:88)
+ [DUBBO] Executor for listenablefuture is null, will use default executor!, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 16:37:56,648 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:64)
+Starting ZkClient event thread.
+
+
+[INFO ] 2019-04-26 16:37:56,662 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:zookeeper.version=3.4.7-1713338, built on 11/09/2015 04:32 GMT
+
+
+[INFO ] 2019-04-26 16:37:56,662 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:host.name=hp-PC
+
+
+[INFO ] 2019-04-26 16:37:56,662 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.version=1.8.0_65
+
+
+[INFO ] 2019-04-26 16:37:56,663 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.vendor=Oracle Corporation
+
+
+[INFO ] 2019-04-26 16:37:56,663 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.home=C:\Program Files\Java\jdk1.8.0_65\jre
+
+
+[INFO ] 2019-04-26 16:37:56,663 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.class.path=D:\maven\apache-maven-3.6.0\boot\plexus-classworlds-2.5.2.jar;D:\ideaIU-2018.2.5.win\lib\idea_rt.jar
+
+
+[INFO ] 2019-04-26 16:37:56,663 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_65\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;E:\mysql-5.6.38-winx64\bin;C:\Program Files\Java\jdk1.8.0_65\bin;c:\app\Administrator\product\11.2.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Rational\common;D:\maven\apache-maven-3.6.0\bin;;.
+
+
+[INFO ] 2019-04-26 16:37:56,664 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+
+
+[INFO ] 2019-04-26 16:37:56,665 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.compiler=<NA>
+
+
+[INFO ] 2019-04-26 16:37:56,665 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.name=Windows 7
+
+
+[INFO ] 2019-04-26 16:37:56,665 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.arch=amd64
+
+
+[INFO ] 2019-04-26 16:37:56,665 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.version=6.1
+
+
+[INFO ] 2019-04-26 16:37:56,666 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.name=Administrator
+
+
+[INFO ] 2019-04-26 16:37:56,666 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.home=C:\Users\Administrator
+
+
+[INFO ] 2019-04-26 16:37:56,666 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.dir=D:\distributed\e3parent\e3-cart
+
+
+[INFO ] 2019-04-26 16:37:56,667 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=192.168.25.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@c032a4
+
+
+[INFO ] 2019-04-26 16:37:56,685 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.128/192.168.25.128:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2019-04-26 16:37:56,734 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.128/192.168.25.128:2181, initiating session
+
+
+[INFO ] 2019-04-26 16:37:57,074 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.128/192.168.25.128:2181, sessionid = 0x16a3569e7db008a, negotiated timeout = 30000
+
+
+[INFO ] 2019-04-26 16:37:57,077 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2019-04-26 16:37:57,083 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:272)
+ [DUBBO] Register: dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=25072&side=provider&timeout=300000&timestamp=1556267875565, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 16:37:57,296 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:295)
+ [DUBBO] Subscribe: provider://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=25072&side=provider&timeout=300000&timestamp=1556267875565, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 16:37:57,398 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:383)
+ [DUBBO] Notify urls for subscribe url provider://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=25072&side=provider&timeout=300000&timestamp=1556267875565, urls: [empty://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=25072&side=provider&timeout=300000&timestamp=1556267875565], dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 16:37:57,424 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:347)
+Root WebApplicationContext: initialization completed in 9230 ms
+
+
+[INFO ] 2019-04-26 19:33:25,498 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:307)
+Root WebApplicationContext: initialization started
+
+
+[INFO ] 2019-04-26 19:33:25,676 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing Root WebApplicationContext: startup date [Fri Apr 26 19:33:25 CST 2019]; root of context hierarchy
+
+
+[INFO ] 2019-04-26 19:33:25,714 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2019-04-26 19:33:31,454 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2019-04-26 19:33:31,558 method:
+using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+
+
+[INFO ] 2019-04-26 19:33:31,578 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2019-04-26 19:33:31,618 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/spring/applicationContext-dao.xml]
+
+
+[INFO ] 2019-04-26 19:33:31,760 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar!/conf/logging.properties]
+
+
+[INFO ] 2019-04-26 19:33:31,760 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\conf\resource.properties]
+
+
+[INFO ] 2019-04-26 19:33:31,761 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/db.properties]
+
+
+[INFO ] 2019-04-26 19:33:31,761 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/resources.properties]
+
+
+[INFO ] 2019-04-26 19:33:31,768 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:153)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+[INFO ] 2019-04-26 19:33:32,838 method:com.alibaba.dubbo.config.spring.ServiceBean.onApplicationEvent(ServiceBean.java:119)
+ [DUBBO] The service ready on spring started. service: com.zhl.cart.service.CartService, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:33:32,921 method:com.alibaba.dubbo.config.ServiceConfig.exportLocal(ServiceConfig.java:531)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to local registry, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:33:32,921 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:490)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to url dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=11104&side=provider&timeout=300000&timestamp=1556278412851, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:33:32,921 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:500)
+ [DUBBO] Register dubbo service com.zhl.cart.service.CartService url dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=11104&side=provider&timeout=300000&timestamp=1556278412851 to registry registry://192.168.25.128:2181/com.alibaba.dubbo.registry.RegistryService?application=e3-cart&dubbo=2.6.0&pid=11104&registry=zookeeper&timestamp=1556278412843, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:33:33,218 method:com.alibaba.dubbo.remoting.transport.AbstractServer.<init>(AbstractServer.java:65)
+ [DUBBO] Start NettyServer bind /0.0.0.0:20884, export /169.254.246.244:20884, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:33:33,232 method:com.alibaba.dubbo.registry.support.AbstractRegistry.loadProperties(AbstractRegistry.java:202)
+ [DUBBO] Load registry store file C:\Users\Administrator\.dubbo\dubbo-registry-e3-cart-192.168.25.128:2181.cache, data: {com.zhl.cart.service.CartService=empty://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=25072&side=provider&timeout=300000&timestamp=1556267875565}, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:33:33,239 method:com.alibaba.dubbo.common.concurrent.ExecutionList.add(ExecutionList.java:88)
+ [DUBBO] Executor for listenablefuture is null, will use default executor!, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:33:33,248 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:64)
+Starting ZkClient event thread.
+
+
+[INFO ] 2019-04-26 19:33:33,256 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:zookeeper.version=3.4.7-1713338, built on 11/09/2015 04:32 GMT
+
+
+[INFO ] 2019-04-26 19:33:33,256 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:host.name=hp-PC
+
+
+[INFO ] 2019-04-26 19:33:33,256 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.version=1.8.0_65
+
+
+[INFO ] 2019-04-26 19:33:33,256 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.vendor=Oracle Corporation
+
+
+[INFO ] 2019-04-26 19:33:33,256 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.home=C:\Program Files\Java\jdk1.8.0_65\jre
+
+
+[INFO ] 2019-04-26 19:33:33,256 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.class.path=D:\maven\apache-maven-3.6.0\boot\plexus-classworlds-2.5.2.jar;D:\ideaIU-2018.2.5.win\lib\idea_rt.jar
+
+
+[INFO ] 2019-04-26 19:33:33,256 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_65\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;E:\mysql-5.6.38-winx64\bin;C:\Program Files\Java\jdk1.8.0_65\bin;c:\app\Administrator\product\11.2.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Rational\common;D:\maven\apache-maven-3.6.0\bin;;.
+
+
+[INFO ] 2019-04-26 19:33:33,257 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+
+
+[INFO ] 2019-04-26 19:33:33,257 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.compiler=<NA>
+
+
+[INFO ] 2019-04-26 19:33:33,257 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.name=Windows 7
+
+
+[INFO ] 2019-04-26 19:33:33,257 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.arch=amd64
+
+
+[INFO ] 2019-04-26 19:33:33,257 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.version=6.1
+
+
+[INFO ] 2019-04-26 19:33:33,257 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.name=Administrator
+
+
+[INFO ] 2019-04-26 19:33:33,257 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.home=C:\Users\Administrator
+
+
+[INFO ] 2019-04-26 19:33:33,257 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.dir=D:\distributed\e3parent\e3-cart
+
+
+[INFO ] 2019-04-26 19:33:33,258 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=192.168.25.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@32e23e25
+
+
+[INFO ] 2019-04-26 19:33:33,276 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.128/192.168.25.128:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2019-04-26 19:33:33,279 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.128/192.168.25.128:2181, initiating session
+
+
+[INFO ] 2019-04-26 19:33:33,327 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.128/192.168.25.128:2181, sessionid = 0x16a3569e7db0098, negotiated timeout = 30000
+
+
+[INFO ] 2019-04-26 19:33:33,328 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2019-04-26 19:33:33,330 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:272)
+ [DUBBO] Register: dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=11104&side=provider&timeout=300000&timestamp=1556278412851, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:33:33,434 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:295)
+ [DUBBO] Subscribe: provider://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=11104&side=provider&timeout=300000&timestamp=1556278412851, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:33:33,509 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:383)
+ [DUBBO] Notify urls for subscribe url provider://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=11104&side=provider&timeout=300000&timestamp=1556278412851, urls: [empty://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=11104&side=provider&timeout=300000&timestamp=1556278412851], dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:33:33,533 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:347)
+Root WebApplicationContext: initialization completed in 7938 ms
+
+
+[WARN ] 2019-04-26 19:34:43,516 method:org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1108)
+Client session timed out, have not heard from server in 20000ms for sessionid 0x16a3569e7db0098
+
+
+[INFO ] 2019-04-26 19:34:43,517 method:org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1156)
+Client session timed out, have not heard from server in 20000ms for sessionid 0x16a3569e7db0098, closing socket connection and attempting reconnect
+
+
+[INFO ] 2019-04-26 19:34:43,618 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (Disconnected)
+
+
+[INFO ] 2019-04-26 19:34:45,318 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.128/192.168.25.128:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[WARN ] 2019-04-26 19:35:06,315 method:org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1162)
+Session 0x16a3569e7db0098 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection timed out: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+
+
+[INFO ] 2019-04-26 19:35:07,918 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.128/192.168.25.128:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2019-04-26 19:35:08,028 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.128/192.168.25.128:2181, initiating session
+
+
+[INFO ] 2019-04-26 19:35:08,046 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.128/192.168.25.128:2181, sessionid = 0x16a3569e7db0098, negotiated timeout = 30000
+
+
+[INFO ] 2019-04-26 19:35:08,047 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2019-04-26 19:52:49,595 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:307)
+Root WebApplicationContext: initialization started
+
+
+[INFO ] 2019-04-26 19:52:49,983 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing Root WebApplicationContext: startup date [Fri Apr 26 19:52:49 CST 2019]; root of context hierarchy
+
+
+[INFO ] 2019-04-26 19:52:50,134 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2019-04-26 19:52:53,612 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2019-04-26 19:52:53,819 method:
+using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+
+
+[INFO ] 2019-04-26 19:52:54,276 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2019-04-26 19:52:54,326 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/spring/applicationContext-dao.xml]
+
+
+[INFO ] 2019-04-26 19:52:54,575 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar!/conf/logging.properties]
+
+
+[INFO ] 2019-04-26 19:52:54,576 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\conf\resource.properties]
+
+
+[INFO ] 2019-04-26 19:52:54,576 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/db.properties]
+
+
+[INFO ] 2019-04-26 19:52:54,577 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/resources.properties]
+
+
+[INFO ] 2019-04-26 19:52:54,596 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:153)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+[INFO ] 2019-04-26 19:52:57,167 method:com.alibaba.dubbo.config.spring.ServiceBean.onApplicationEvent(ServiceBean.java:119)
+ [DUBBO] The service ready on spring started. service: com.zhl.cart.service.CartService, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:52:58,776 method:com.alibaba.dubbo.config.ServiceConfig.exportLocal(ServiceConfig.java:531)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to local registry, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:52:58,777 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:490)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to url dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=5140&side=provider&timeout=300000&timestamp=1556279578640, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:52:58,777 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:500)
+ [DUBBO] Register dubbo service com.zhl.cart.service.CartService url dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=5140&side=provider&timeout=300000&timestamp=1556279578640 to registry registry://192.168.25.128:2181/com.alibaba.dubbo.registry.RegistryService?application=e3-cart&dubbo=2.6.0&pid=5140&registry=zookeeper&timestamp=1556279577172, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:52:59,983 method:com.alibaba.dubbo.remoting.transport.AbstractServer.<init>(AbstractServer.java:65)
+ [DUBBO] Start NettyServer bind /0.0.0.0:20884, export /169.254.246.244:20884, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:52:59,998 method:com.alibaba.dubbo.registry.support.AbstractRegistry.loadProperties(AbstractRegistry.java:202)
+ [DUBBO] Load registry store file C:\Users\Administrator\.dubbo\dubbo-registry-e3-cart-192.168.25.128:2181.cache, data: {com.zhl.cart.service.CartService=empty://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=11104&side=provider&timeout=300000&timestamp=1556278412851}, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:53:00,024 method:com.alibaba.dubbo.common.concurrent.ExecutionList.add(ExecutionList.java:88)
+ [DUBBO] Executor for listenablefuture is null, will use default executor!, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:53:00,049 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:64)
+Starting ZkClient event thread.
+
+
+[INFO ] 2019-04-26 19:53:00,079 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:zookeeper.version=3.4.7-1713338, built on 11/09/2015 04:32 GMT
+
+
+[INFO ] 2019-04-26 19:53:00,079 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:host.name=hp-PC
+
+
+[INFO ] 2019-04-26 19:53:00,079 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.version=1.8.0_65
+
+
+[INFO ] 2019-04-26 19:53:00,079 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.vendor=Oracle Corporation
+
+
+[INFO ] 2019-04-26 19:53:00,079 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.home=C:\Program Files\Java\jdk1.8.0_65\jre
+
+
+[INFO ] 2019-04-26 19:53:00,079 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.class.path=D:\maven\apache-maven-3.6.0\boot\plexus-classworlds-2.5.2.jar;D:\ideaIU-2018.2.5.win\lib\idea_rt.jar
+
+
+[INFO ] 2019-04-26 19:53:00,079 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_65\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;E:\mysql-5.6.38-winx64\bin;C:\Program Files\Java\jdk1.8.0_65\bin;c:\app\Administrator\product\11.2.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Rational\common;D:\maven\apache-maven-3.6.0\bin;;.
+
+
+[INFO ] 2019-04-26 19:53:00,080 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+
+
+[INFO ] 2019-04-26 19:53:00,080 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.compiler=<NA>
+
+
+[INFO ] 2019-04-26 19:53:00,080 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.name=Windows 7
+
+
+[INFO ] 2019-04-26 19:53:00,080 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.arch=amd64
+
+
+[INFO ] 2019-04-26 19:53:00,080 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.version=6.1
+
+
+[INFO ] 2019-04-26 19:53:00,080 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.name=Administrator
+
+
+[INFO ] 2019-04-26 19:53:00,080 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.home=C:\Users\Administrator
+
+
+[INFO ] 2019-04-26 19:53:00,080 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.dir=D:\distributed\e3parent\e3-cart
+
+
+[INFO ] 2019-04-26 19:53:00,081 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=192.168.25.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@7061ebc1
+
+
+[INFO ] 2019-04-26 19:53:00,104 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.128/192.168.25.128:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2019-04-26 19:53:00,126 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.128/192.168.25.128:2181, initiating session
+
+
+[INFO ] 2019-04-26 19:53:00,192 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.128/192.168.25.128:2181, sessionid = 0x16a3569e7db00a5, negotiated timeout = 30000
+
+
+[INFO ] 2019-04-26 19:53:00,195 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2019-04-26 19:53:00,197 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:272)
+ [DUBBO] Register: dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=5140&side=provider&timeout=300000&timestamp=1556279578640, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:53:00,272 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:295)
+ [DUBBO] Subscribe: provider://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=5140&side=provider&timeout=300000&timestamp=1556279578640, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:53:00,347 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:383)
+ [DUBBO] Notify urls for subscribe url provider://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=5140&side=provider&timeout=300000&timestamp=1556279578640, urls: [empty://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=5140&side=provider&timeout=300000&timestamp=1556279578640], dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 19:53:00,371 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:347)
+Root WebApplicationContext: initialization completed in 10740 ms
+
+
+[INFO ] 2019-04-26 20:24:27,556 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:307)
+Root WebApplicationContext: initialization started
+
+
+[INFO ] 2019-04-26 20:24:27,889 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing Root WebApplicationContext: startup date [Fri Apr 26 20:24:27 CST 2019]; root of context hierarchy
+
+
+[INFO ] 2019-04-26 20:24:28,176 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2019-04-26 20:24:35,396 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2019-04-26 20:24:35,526 method:
+using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+
+
+[INFO ] 2019-04-26 20:24:35,545 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2019-04-26 20:24:35,616 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/spring/applicationContext-dao.xml]
+
+
+[INFO ] 2019-04-26 20:24:35,818 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar!/conf/logging.properties]
+
+
+[INFO ] 2019-04-26 20:24:35,819 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\conf\resource.properties]
+
+
+[INFO ] 2019-04-26 20:24:35,819 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/db.properties]
+
+
+[INFO ] 2019-04-26 20:24:35,820 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/resources.properties]
+
+
+[INFO ] 2019-04-26 20:24:35,827 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:153)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+[INFO ] 2019-04-26 20:24:37,610 method:com.alibaba.dubbo.config.spring.ServiceBean.onApplicationEvent(ServiceBean.java:119)
+ [DUBBO] The service ready on spring started. service: com.zhl.cart.service.CartService, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:24:38,240 method:com.alibaba.dubbo.config.ServiceConfig.exportLocal(ServiceConfig.java:531)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to local registry, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:24:38,241 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:490)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to url dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=8412&side=provider&timeout=300000&timestamp=1556281477650, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:24:38,241 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:500)
+ [DUBBO] Register dubbo service com.zhl.cart.service.CartService url dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=8412&side=provider&timeout=300000&timestamp=1556281477650 to registry registry://192.168.25.128:2181/com.alibaba.dubbo.registry.RegistryService?application=e3-cart&dubbo=2.6.0&pid=8412&registry=zookeeper&timestamp=1556281477616, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:24:39,039 method:com.alibaba.dubbo.remoting.transport.AbstractServer.<init>(AbstractServer.java:65)
+ [DUBBO] Start NettyServer bind /0.0.0.0:20884, export /169.254.246.244:20884, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:24:39,055 method:com.alibaba.dubbo.registry.support.AbstractRegistry.loadProperties(AbstractRegistry.java:202)
+ [DUBBO] Load registry store file C:\Users\Administrator\.dubbo\dubbo-registry-e3-cart-192.168.25.128:2181.cache, data: {com.zhl.cart.service.CartService=empty://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=5140&side=provider&timeout=300000&timestamp=1556279578640}, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:24:39,140 method:com.alibaba.dubbo.common.concurrent.ExecutionList.add(ExecutionList.java:88)
+ [DUBBO] Executor for listenablefuture is null, will use default executor!, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:24:39,159 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:64)
+Starting ZkClient event thread.
+
+
+[INFO ] 2019-04-26 20:24:39,165 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:zookeeper.version=3.4.7-1713338, built on 11/09/2015 04:32 GMT
+
+
+[INFO ] 2019-04-26 20:24:39,166 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:host.name=hp-PC
+
+
+[INFO ] 2019-04-26 20:24:39,166 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.version=1.8.0_65
+
+
+[INFO ] 2019-04-26 20:24:39,166 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.vendor=Oracle Corporation
+
+
+[INFO ] 2019-04-26 20:24:39,166 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.home=C:\Program Files\Java\jdk1.8.0_65\jre
+
+
+[INFO ] 2019-04-26 20:24:39,166 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.class.path=D:\maven\apache-maven-3.6.0\boot\plexus-classworlds-2.5.2.jar;D:\ideaIU-2018.2.5.win\lib\idea_rt.jar
+
+
+[INFO ] 2019-04-26 20:24:39,166 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_65\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;E:\mysql-5.6.38-winx64\bin;C:\Program Files\Java\jdk1.8.0_65\bin;c:\app\Administrator\product\11.2.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Rational\common;D:\maven\apache-maven-3.6.0\bin;;.
+
+
+[INFO ] 2019-04-26 20:24:39,167 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+
+
+[INFO ] 2019-04-26 20:24:39,167 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.compiler=<NA>
+
+
+[INFO ] 2019-04-26 20:24:39,167 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.name=Windows 7
+
+
+[INFO ] 2019-04-26 20:24:39,167 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.arch=amd64
+
+
+[INFO ] 2019-04-26 20:24:39,167 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.version=6.1
+
+
+[INFO ] 2019-04-26 20:24:39,167 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.name=Administrator
+
+
+[INFO ] 2019-04-26 20:24:39,167 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.home=C:\Users\Administrator
+
+
+[INFO ] 2019-04-26 20:24:39,167 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.dir=D:\distributed\e3parent\e3-cart
+
+
+[INFO ] 2019-04-26 20:24:39,168 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=192.168.25.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@4971fc1c
+
+
+[INFO ] 2019-04-26 20:24:39,190 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.128/192.168.25.128:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2019-04-26 20:24:39,196 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.128/192.168.25.128:2181, initiating session
+
+
+[INFO ] 2019-04-26 20:24:39,205 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.128/192.168.25.128:2181, sessionid = 0x16a3569e7db00b2, negotiated timeout = 30000
+
+
+[INFO ] 2019-04-26 20:24:39,207 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2019-04-26 20:24:39,209 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:272)
+ [DUBBO] Register: dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=8412&side=provider&timeout=300000&timestamp=1556281477650, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:24:39,268 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:295)
+ [DUBBO] Subscribe: provider://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=8412&side=provider&timeout=300000&timestamp=1556281477650, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:24:39,310 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:383)
+ [DUBBO] Notify urls for subscribe url provider://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=8412&side=provider&timeout=300000&timestamp=1556281477650, urls: [empty://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=8412&side=provider&timeout=300000&timestamp=1556281477650], dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:24:39,333 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:347)
+Root WebApplicationContext: initialization completed in 11722 ms
+
+
+[INFO ] 2019-04-26 20:38:05,482 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /169.254.246.244:51784,url:dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=8412&side=provider&timeout=300000&timestamp=1556281477650, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[WARN ] 2019-04-26 20:51:09,906 method:org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1108)
+Client session timed out, have not heard from server in 21373ms for sessionid 0x16a3569e7db00b2
+
+
+[INFO ] 2019-04-26 20:51:09,906 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /169.254.246.244:52127,url:dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=8412&side=provider&timeout=300000&timestamp=1556281477650, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:51:10,193 method:org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1156)
+Client session timed out, have not heard from server in 21373ms for sessionid 0x16a3569e7db00b2, closing socket connection and attempting reconnect
+
+
+[INFO ] 2019-04-26 20:51:10,422 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (Disconnected)
+
+
+[INFO ] 2019-04-26 20:51:11,518 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.128/192.168.25.128:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2019-04-26 20:51:11,535 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.128/192.168.25.128:2181, initiating session
+
+
+[INFO ] 2019-04-26 20:51:11,762 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.128/192.168.25.128:2181, sessionid = 0x16a3569e7db00b2, negotiated timeout = 30000
+
+
+[INFO ] 2019-04-26 20:51:11,763 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2019-04-26 20:58:02,761 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:307)
+Root WebApplicationContext: initialization started
+
+
+[INFO ] 2019-04-26 20:58:04,001 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing Root WebApplicationContext: startup date [Fri Apr 26 20:58:04 CST 2019]; root of context hierarchy
+
+
+[INFO ] 2019-04-26 20:58:05,508 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2019-04-26 20:58:16,754 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2019-04-26 20:58:19,573 method:
+using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+
+
+[INFO ] 2019-04-26 20:58:19,663 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2019-04-26 20:58:20,182 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/spring/applicationContext-dao.xml]
+
+
+[INFO ] 2019-04-26 20:58:21,641 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar!/conf/logging.properties]
+
+
+[INFO ] 2019-04-26 20:58:21,642 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\conf\resource.properties]
+
+
+[INFO ] 2019-04-26 20:58:21,642 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/db.properties]
+
+
+[INFO ] 2019-04-26 20:58:21,642 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/resources.properties]
+
+
+[INFO ] 2019-04-26 20:58:21,905 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:153)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+[INFO ] 2019-04-26 20:58:34,595 method:com.alibaba.dubbo.config.spring.ServiceBean.onApplicationEvent(ServiceBean.java:119)
+ [DUBBO] The service ready on spring started. service: com.zhl.cart.service.CartService, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:58:34,969 method:com.alibaba.dubbo.config.ServiceConfig.exportLocal(ServiceConfig.java:531)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to local registry, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:58:34,970 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:490)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to url dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=29968&side=provider&timeout=300000&timestamp=1556283514797, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:58:34,970 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:500)
+ [DUBBO] Register dubbo service com.zhl.cart.service.CartService url dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=29968&side=provider&timeout=300000&timestamp=1556283514797 to registry registry://192.168.25.128:2181/com.alibaba.dubbo.registry.RegistryService?application=e3-cart&dubbo=2.6.0&pid=29968&registry=zookeeper&timestamp=1556283514603, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:58:37,024 method:com.alibaba.dubbo.remoting.transport.AbstractServer.<init>(AbstractServer.java:65)
+ [DUBBO] Start NettyServer bind /0.0.0.0:20884, export /169.254.246.244:20884, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:58:37,414 method:com.alibaba.dubbo.registry.support.AbstractRegistry.loadProperties(AbstractRegistry.java:202)
+ [DUBBO] Load registry store file C:\Users\Administrator\.dubbo\dubbo-registry-e3-cart-192.168.25.128:2181.cache, data: {com.zhl.cart.service.CartService=empty://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=8412&side=provider&timeout=300000&timestamp=1556281477650}, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:58:37,587 method:com.alibaba.dubbo.common.concurrent.ExecutionList.add(ExecutionList.java:88)
+ [DUBBO] Executor for listenablefuture is null, will use default executor!, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:58:37,658 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:64)
+Starting ZkClient event thread.
+
+
+[INFO ] 2019-04-26 20:58:39,219 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:zookeeper.version=3.4.7-1713338, built on 11/09/2015 04:32 GMT
+
+
+[INFO ] 2019-04-26 20:58:39,219 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:host.name=hp-PC
+
+
+[INFO ] 2019-04-26 20:58:39,219 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.version=1.8.0_65
+
+
+[INFO ] 2019-04-26 20:58:39,220 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.vendor=Oracle Corporation
+
+
+[INFO ] 2019-04-26 20:58:39,220 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.home=C:\Program Files\Java\jdk1.8.0_65\jre
+
+
+[INFO ] 2019-04-26 20:58:39,220 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.class.path=D:\maven\apache-maven-3.6.0\boot\plexus-classworlds-2.5.2.jar;D:\ideaIU-2018.2.5.win\lib\idea_rt.jar
+
+
+[INFO ] 2019-04-26 20:58:39,220 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_65\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;E:\mysql-5.6.38-winx64\bin;C:\Program Files\Java\jdk1.8.0_65\bin;c:\app\Administrator\product\11.2.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Rational\common;D:\maven\apache-maven-3.6.0\bin;;.
+
+
+[INFO ] 2019-04-26 20:58:39,221 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+
+
+[INFO ] 2019-04-26 20:58:39,221 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.compiler=<NA>
+
+
+[INFO ] 2019-04-26 20:58:39,221 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.name=Windows 7
+
+
+[INFO ] 2019-04-26 20:58:39,221 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.arch=amd64
+
+
+[INFO ] 2019-04-26 20:58:39,221 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.version=6.1
+
+
+[INFO ] 2019-04-26 20:58:39,221 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.name=Administrator
+
+
+[INFO ] 2019-04-26 20:58:39,222 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.home=C:\Users\Administrator
+
+
+[INFO ] 2019-04-26 20:58:39,222 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.dir=D:\distributed\e3parent\e3-cart
+
+
+[INFO ] 2019-04-26 20:58:39,223 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=192.168.25.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@1b24b9c7
+
+
+[INFO ] 2019-04-26 20:58:39,247 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.128/192.168.25.128:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2019-04-26 20:58:39,250 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.128/192.168.25.128:2181, initiating session
+
+
+[INFO ] 2019-04-26 20:58:39,965 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.128/192.168.25.128:2181, sessionid = 0x16a3569e7db00c0, negotiated timeout = 30000
+
+
+[INFO ] 2019-04-26 20:58:39,969 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2019-04-26 20:58:39,975 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:272)
+ [DUBBO] Register: dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=29968&side=provider&timeout=300000&timestamp=1556283514797, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:58:40,066 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:295)
+ [DUBBO] Subscribe: provider://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=29968&side=provider&timeout=300000&timestamp=1556283514797, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:58:40,260 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:383)
+ [DUBBO] Notify urls for subscribe url provider://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=29968&side=provider&timeout=300000&timestamp=1556283514797, urls: [empty://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=29968&side=provider&timeout=300000&timestamp=1556283514797], dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 20:58:40,338 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:347)
+Root WebApplicationContext: initialization completed in 37483 ms
+
+
+[INFO ] 2019-04-26 21:06:18,243 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /169.254.246.244:52806,url:dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=29968&side=provider&timeout=300000&timestamp=1556283514797, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 21:07:01,455 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /169.254.246.244:52952,url:dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=29968&side=provider&timeout=300000&timestamp=1556283514797, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 21:08:22,090 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /169.254.246.244:52995,url:dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=29968&side=provider&timeout=300000&timestamp=1556283514797, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-04-26 21:10:07,669 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /169.254.246.244:53036,url:dubbo://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=169.254.246.244&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=29968&side=provider&timeout=300000&timestamp=1556283514797, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 09:35:24,780 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:307)
+Root WebApplicationContext: initialization started
+
+
+[INFO ] 2019-05-05 09:35:24,891 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing Root WebApplicationContext: startup date [Sun May 05 09:35:24 CST 2019]; root of context hierarchy
+
+
+[INFO ] 2019-05-05 09:35:24,924 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2019-05-05 09:35:25,701 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2019-05-05 09:35:25,888 method:
+using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+
+
+[INFO ] 2019-05-05 09:35:25,915 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2019-05-05 09:35:25,970 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/spring/applicationContext-dao.xml]
+
+
+[INFO ] 2019-05-05 09:35:26,113 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar!/conf/logging.properties]
+
+
+[INFO ] 2019-05-05 09:35:26,113 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [D:\distributed\e3parent\e3-cart\e3-cart-service\target\classes\conf\resource.properties]
+
+
+[INFO ] 2019-05-05 09:35:26,114 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/db.properties]
+
+
+[INFO ] 2019-05-05 09:35:26,114 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from URL [jar:file:/D:/maven/repository/com/zhl/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/conf/resources.properties]
+
+
+[INFO ] 2019-05-05 09:35:26,122 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:153)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+[INFO ] 2019-05-05 09:35:28,281 method:com.alibaba.dubbo.config.spring.ServiceBean.onApplicationEvent(ServiceBean.java:119)
+ [DUBBO] The service ready on spring started. service: com.zhl.cart.service.CartService, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 09:35:28,395 method:com.alibaba.dubbo.config.ServiceConfig.exportLocal(ServiceConfig.java:531)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to local registry, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 09:35:28,395 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:490)
+ [DUBBO] Export dubbo service com.zhl.cart.service.CartService to url dubbo://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=192.168.22.58&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 09:35:28,395 method:com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:500)
+ [DUBBO] Register dubbo service com.zhl.cart.service.CartService url dubbo://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=192.168.22.58&bind.port=20884&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298 to registry registry://192.168.25.128:2181/com.alibaba.dubbo.registry.RegistryService?application=e3-cart&dubbo=2.6.0&pid=16392&registry=zookeeper&timestamp=1557020128290, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 09:35:28,739 method:com.alibaba.dubbo.remoting.transport.AbstractServer.<init>(AbstractServer.java:65)
+ [DUBBO] Start NettyServer bind /0.0.0.0:20884, export /192.168.22.58:20884, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 09:35:28,754 method:com.alibaba.dubbo.registry.support.AbstractRegistry.loadProperties(AbstractRegistry.java:202)
+ [DUBBO] Load registry store file C:\Users\Administrator\.dubbo\dubbo-registry-e3-cart-192.168.25.128:2181.cache, data: {com.zhl.cart.service.CartService=empty://169.254.246.244:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=29968&side=provider&timeout=300000&timestamp=1556283514797}, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 09:35:28,763 method:com.alibaba.dubbo.common.concurrent.ExecutionList.add(ExecutionList.java:88)
+ [DUBBO] Executor for listenablefuture is null, will use default executor!, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 09:35:28,776 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:64)
+Starting ZkClient event thread.
+
+
+[INFO ] 2019-05-05 09:35:28,787 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:zookeeper.version=3.4.7-1713338, built on 11/09/2015 04:32 GMT
+
+
+[INFO ] 2019-05-05 09:35:28,788 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:host.name=hp-PC
+
+
+[INFO ] 2019-05-05 09:35:28,788 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.version=1.8.0_65
+
+
+[INFO ] 2019-05-05 09:35:28,788 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.vendor=Oracle Corporation
+
+
+[INFO ] 2019-05-05 09:35:28,788 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.home=C:\Program Files\Java\jdk1.8.0_65\jre
+
+
+[INFO ] 2019-05-05 09:35:28,788 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.class.path=D:\maven\apache-maven-3.6.0\boot\plexus-classworlds-2.5.2.jar;D:\ideaIU-2018.2.5.win\lib\idea_rt.jar
+
+
+[INFO ] 2019-05-05 09:35:28,788 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_65\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;E:\mysql-5.6.38-winx64\bin;C:\Program Files\Java\jdk1.8.0_65\bin;c:\app\Administrator\product\11.2.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Rational\common;D:\maven\apache-maven-3.6.0\bin;;.
+
+
+[INFO ] 2019-05-05 09:35:28,789 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+
+
+[INFO ] 2019-05-05 09:35:28,789 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.compiler=<NA>
+
+
+[INFO ] 2019-05-05 09:35:28,789 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.name=Windows 7
+
+
+[INFO ] 2019-05-05 09:35:28,789 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.arch=amd64
+
+
+[INFO ] 2019-05-05 09:35:28,789 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.version=6.1
+
+
+[INFO ] 2019-05-05 09:35:28,789 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.name=Administrator
+
+
+[INFO ] 2019-05-05 09:35:28,789 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.home=C:\Users\Administrator
+
+
+[INFO ] 2019-05-05 09:35:28,789 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.dir=D:\distributed\e3parent\e3-cart
+
+
+[INFO ] 2019-05-05 09:35:28,791 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=192.168.25.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@1525014d
+
+
+[INFO ] 2019-05-05 09:35:28,809 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.128/192.168.25.128:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2019-05-05 09:35:28,824 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.128/192.168.25.128:2181, initiating session
+
+
+[INFO ] 2019-05-05 09:35:28,989 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.128/192.168.25.128:2181, sessionid = 0x16a3569e7db00d2, negotiated timeout = 30000
+
+
+[INFO ] 2019-05-05 09:35:28,991 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2019-05-05 09:35:28,995 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:272)
+ [DUBBO] Register: dubbo://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 09:35:29,073 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:295)
+ [DUBBO] Subscribe: provider://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 09:35:32,643 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:383)
+ [DUBBO] Notify urls for subscribe url provider://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298, urls: [empty://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298], dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 09:35:32,665 method:org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:347)
+Root WebApplicationContext: initialization completed in 7855 ms
+
+
+[INFO ] 2019-05-05 11:38:02,865 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /192.168.22.58:3044,url:dubbo://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=192.168.22.58&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 11:39:33,342 method:com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:655)
+{dataSource-1} inited
+
+
+[INFO ] 2019-05-05 11:44:23,380 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /192.168.22.58:4549,url:dubbo://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=192.168.22.58&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[WARN ] 2019-05-05 16:51:32,627 method:org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1108)
+Client session timed out, have not heard from server in 20015ms for sessionid 0x16a3569e7db00d2
+
+
+[INFO ] 2019-05-05 16:51:32,866 method:org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1156)
+Client session timed out, have not heard from server in 20015ms for sessionid 0x16a3569e7db00d2, closing socket connection and attempting reconnect
+
+
+[INFO ] 2019-05-05 16:51:33,432 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (Disconnected)
+
+
+[INFO ] 2019-05-05 16:51:34,490 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.128/192.168.25.128:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2019-05-05 16:51:34,952 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.128/192.168.25.128:2181, initiating session
+
+
+[WARN ] 2019-05-05 16:52:01,543 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1285)
+Unable to reconnect to ZooKeeper service, session 0x16a3569e7db00d2 has expired
+
+
+[INFO ] 2019-05-05 16:52:01,544 method:org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1154)
+Unable to reconnect to ZooKeeper service, session 0x16a3569e7db00d2 has expired, closing socket connection
+
+
+[INFO ] 2019-05-05 16:52:01,545 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (Expired)
+
+
+[INFO ] 2019-05-05 16:52:01,607 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=192.168.25.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@1525014d
+
+
+[INFO ] 2019-05-05 16:52:01,955 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.128/192.168.25.128:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2019-05-05 16:52:02,016 method:com.alibaba.dubbo.registry.support.FailbackRegistry.recover(FailbackRegistry.java:297)
+ [DUBBO] Recover register url [dubbo://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298], dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 16:52:02,056 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.128/192.168.25.128:2181, initiating session
+
+
+[INFO ] 2019-05-05 16:52:02,116 method:com.alibaba.dubbo.registry.support.FailbackRegistry.recover(FailbackRegistry.java:307)
+ [DUBBO] Recover subscribe url [provider://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298], dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 16:52:02,227 method:org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:519)
+EventThread shut down for session: 0x16a3569e7db00d2
+
+
+[INFO ] 2019-05-05 16:52:05,525 method:com.alibaba.dubbo.registry.support.FailbackRegistry.retry(FailbackRegistry.java:324)
+ [DUBBO] Retry register [dubbo://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298], dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 16:52:14,872 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.128/192.168.25.128:2181, sessionid = 0x16a3569e7db00dd, negotiated timeout = 30000
+
+
+[INFO ] 2019-05-05 16:52:14,873 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2019-05-05 16:52:15,700 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:120)
+ [DUBBO] disconected from /192.168.22.58:4724,url:dubbo://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&bind.ip=192.168.22.58&bind.port=20884&channel.readonly.sent=true&codec=dubbo&dubbo=2.6.0&generic=false&heartbeat=60000&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 16:52:16,743 method:com.alibaba.dubbo.registry.support.FailbackRegistry.retry(FailbackRegistry.java:369)
+ [DUBBO] Retry subscribe {provider://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298=[com.alibaba.dubbo.registry.integration.RegistryProtocol$OverrideListener@715e7a7f]}, dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 16:52:16,751 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:383)
+ [DUBBO] Notify urls for subscribe url provider://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298, urls: [empty://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298], dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[INFO ] 2019-05-05 16:52:29,646 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:383)
+ [DUBBO] Notify urls for subscribe url provider://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298, urls: [empty://192.168.22.58:20884/com.zhl.cart.service.CartService?anyhost=true&application=e3-cart&category=configurators&check=false&dubbo=2.6.0&generic=false&interface=com.zhl.cart.service.CartService&methods=addCart,mergeCart,updateCartNum,getCartList,deleteCartItem,clearCartItem&pid=16392&side=provider&timeout=300000&timestamp=1557020128298], dubbo version: 2.6.0, current host: 127.0.0.1
+
+
+[WARN ] 2019-05-06 01:00:43,412 method:org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1108)
+Client session timed out, have not heard from server in 48549ms for sessionid 0x16a3569e7db00dd
+
+
+[INFO ] 2019-05-06 01:00:54,060 method:org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1156)
+Client session timed out, have not heard from server in 48549ms for sessionid 0x16a3569e7db00dd, closing socket connection and attempting reconnect
+
+
+[INFO ] 2019-05-06 01:00:57,356 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (Disconnected)
+
+
+[INFO ] 2019-05-06 01:01:01,381 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.128/192.168.25.128:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2019-05-06 01:01:03,105 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.128/192.168.25.128:2181, initiating session
+
+
+[INFO ] 2019-05-06 01:01:03,220 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.128/192.168.25.128:2181, sessionid = 0x16a3569e7db00dd, negotiated timeout = 30000
+
+
+[INFO ] 2019-05-06 01:01:03,220 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)

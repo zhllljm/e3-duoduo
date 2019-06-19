@@ -1,0 +1,52 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context" xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:aop="http://www.springframework.org/schema/aop" xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.2.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.2.xsd
+	http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.2.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.2.xsd
+	http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-4.2.xsd">
+    <!-- 1.配置事务管理器,真正管理事务的对象-->
+    <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <!-- 注入数据源dataSource，因为事务操作的是connection -->
+        <property name="dataSource"  ref="dataSource"></property>
+    </bean>
+
+    <!-- 2.配置事务的通知 -->
+    <!--配置事务的增强-->
+    <tx:advice id="txAdvice" transaction-manager="transactionManager">
+        <tx:attributes>
+            <!--
+                isolation="DEFAULT"	隔离级别
+                    default：默认，Mysql默认:可重复读
+                    READ_UNCOMMITTED：未提交读
+                    READ_COMMITTED：已提交读
+                    REPEATABLE_READ：可重复读
+                    SERIALIZABLE：串行化的
+                propagation="REQUIRED"传播行为
+                read-only="false"	只读
+                timeout="-1"	过期时间
+                rollback-for=""	-Exception
+                no-rollback-for=""+Exception
+            -->
+            <tx:method name="save*" propagation="REQUIRED" isolation="DEFAULT"/>
+            <tx:method name="add*" propagation="REQUIRED" isolation="DEFAULT"/>
+            <tx:method name="del*" propagation="REQUIRED" isolation="DEFAULT"/>
+            <tx:method name="update*" propagation="REQUIRED" isolation="DEFAULT"/>
+            <tx:method name="modify*" propagation="REQUIRED" isolation="DEFAULT"/>
+            <tx:method name="get*" propagation="REQUIRED" isolation="DEFAULT" read-only="true"/>
+            <tx:method name="find*" propagation="REQUIRED" isolation="DEFAULT" read-only="true"/>
+            <tx:method name="query*" propagation="REQUIRED" isolation="DEFAULT" read-only="true"/>
+            <tx:method name="select" propagation="REQUIRED" isolation="DEFAULT" read-only="true"/>
+        </tx:attributes>
+    </tx:advice>
+
+    <!-- 配置切面 -->
+    <aop:config>
+        <aop:pointcut expression="execution(* com.zhl.sso.service.impl.*ServiceImpl.*(..))" id="pc"/>
+        <aop:advisor advice-ref="txAdvice" pointcut-ref="pc"/>
+    </aop:config>
+
+    <!-- 开启事务管理的注解 -->
+    <!-- <tx:annotation-driven transaction-manager="transactionManager"/> -->
+</beans>
